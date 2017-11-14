@@ -1,9 +1,9 @@
 <?php
 
-include '/templates/head.php';
-include '/nav.php';
-include '/templates/registration.php';
-include '/templates/javascript.js'
-include '/templates/foot.php';
+require '/templates/head.php';
+require '/nav.php';
+require '/templates/registration.php';
+require '/templates/javascript.php';
+require '/templates/foot.php';
 
 ?>
