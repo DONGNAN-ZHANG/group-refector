@@ -1,6 +1,6 @@
 <!-- Login and Registration Buttons/Links -->
-<div class="container">
-<div class="row">
+<div class="container navbar_color">
+<div class="row ">
 <nav>
     <ul class="nav navbar-nav navbar-right">
 	<li><a href="shop.php"><span class="glyphicon glyphicon-shopping-cart"></span> Shop</a></li>
@@ -11,7 +11,7 @@
 
 	
 <!-- NavBar -->	
-<div class="container">
+<div class="container navbar_color">
 <nav class="navbar">
   <div class="container-fluid">
     <div class="navbar-header">

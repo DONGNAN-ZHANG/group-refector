@@ -1,4 +1,4 @@
-body {
+body register{
     padding-top: 90px;
 }
 .panel-login {
@@ -96,4 +96,8 @@ body {
 	color: #fff;
 	background-color: #1CA347;
 	border-color: #1CA347;
+}
+
+body .navbar_color {
+	background-color: #1da1af ;
 }
